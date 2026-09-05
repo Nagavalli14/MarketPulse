@@ -29,7 +29,7 @@ import {
 
 import "./App.css";
 
-const API_URL = "https://marketpulse-64o8.onrender.com/";
+const API_URL = "https://marketpulse-64o8.onrender.com";
 
 function App() {
   // =========================================================
